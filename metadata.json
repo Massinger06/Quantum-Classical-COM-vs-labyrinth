@@ -1,0 +1,5 @@
+{
+  "name": "Quantum vs Classic Maze",
+  "description": "Una visualización interactiva que compara cómo una computadora clásica (secuencial) y una computadora cuántica (paralela) resuelven un laberinto.",
+  "requestFramePermissions": []
+}
